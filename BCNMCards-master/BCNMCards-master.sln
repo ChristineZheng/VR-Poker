@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A4700F6A-F77C-6108-395F-3E8608A8F3B2}") = "BCNMCards-master", "Assembly-CSharp.csproj", "{A3BA8BAD-3895-1DC2-B0C7-EB3173483235}"
+EndProject
+Project("{A4700F6A-F77C-6108-395F-3E8608A8F3B2}") = "BCNMCards-master", "Assembly-CSharp-Editor.csproj", "{6E06DA8C-A426-95E9-6783-27EC79D59F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3BA8BAD-3895-1DC2-B0C7-EB3173483235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BA8BAD-3895-1DC2-B0C7-EB3173483235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BA8BAD-3895-1DC2-B0C7-EB3173483235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BA8BAD-3895-1DC2-B0C7-EB3173483235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E06DA8C-A426-95E9-6783-27EC79D59F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E06DA8C-A426-95E9-6783-27EC79D59F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E06DA8C-A426-95E9-6783-27EC79D59F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E06DA8C-A426-95E9-6783-27EC79D59F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
